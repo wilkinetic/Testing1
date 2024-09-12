@@ -1,4 +1,25 @@
- <html lang="en">
+# Don't Give Up Animation
+
+A simple animated message "Don't Give Up" built with HTML, CSS, and JavaScript. The animation fades in and blinks the text for a few seconds before stopping the blinking.
+
+## Demo
+
+![Don't Give Up Animation](https://your-demo-link.gif)
+
+## Features
+
+- Fades in the message "Don't Give Up!"
+- Blinks the message for 5 seconds
+- Stops the blinking after 5 seconds for better readability
+
+## Usage
+
+To run this animation:
+
+1. Copy the code below and save it as `index.html`:
+    ```html
+    <!DOCTYPE html>
+    <html lang="en">
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -46,3 +67,18 @@
         </script>
     </body>
     </html>
+    ```
+
+2. Open the file in your browser to view the animation.
+
+## How it Works
+
+- The **HTML** creates a centered message.
+- **CSS** handles the animation:
+  - `fadeIn`: Gradually shows the message over 2 seconds.
+  - `blink`: Makes the message blink.
+- **JavaScript** stops the blinking after 5 seconds.
+
+## License
+
+This project is open-source and free to use.
