@@ -1,13 +1,10 @@
-## Hi there 👋
+## Link is safe (no virus)project1 👋
 
 <!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>
-		beautiful and simple website using html only -- fullywrold web tutorials
-		<link rel="stylesheet" href="pelfe.css">
-	</title>
+	
 </head>
 <body background="1.jpg" link="#000" alink="#017bf5" vlink="#000">
 	<br />
