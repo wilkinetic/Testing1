@@ -1,16 +1,49 @@
 ## Hi there 👋
 
-<!--
-**wilkinetic/wilkinetic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>
+		beautiful and simple website using html only -- fullywrold web tutorials
+		<link rel="stylesheet" href="pelfe.css">
+	</title>
+</head>
+<body background="1.jpg" link="#000" alink="#017bf5" vlink="#000">
+	<br />
+	<h3 align="center">
+		<font face="Lato" size="6">LOGO</font>
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<font face="cinzel" size="4">
+			<a href="#">HOME</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="#">VIDEOS</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="#">PORTFOLIO</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="#">BLOG</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="#">CONTACT US</a>
+		</font>
+	</h3>
+	<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+	<h1 align="center">
+		<font face="Lato" color="#017bf5" size="7">
+			EH
+		</font>
+	</h1>
+	<h3 align="center">
+		<font face="Lato" color="#000" size="5">
+			USING HTML ONLY (NO CSS USED)
+		</font>
+	</h3>
+	<br />
+	<h3 align="center">
+	<a href="#">
+		<font face="Lato" color="#000">GET STARTED</font>
+	</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#">
+		<font face="Lato" color="#fff">NO VIRUS</font>
+	</a>
+	</h3>
+</body>
+</html>
