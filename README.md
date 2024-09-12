@@ -1,6 +1,5 @@
 ## Link is safe (no virus)project1 👋
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="utf-8">
